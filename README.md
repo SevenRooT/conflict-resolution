@@ -1,2 +1,7 @@
 # conflict-resolution
 UofO Bootcamp Exercise 02_01_27 
+```md
+  ## This is a subheading created on GitHub
+
+  All of this content added to the readme file has been added from my remote GitHub repository.
+  ```
